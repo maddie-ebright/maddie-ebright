@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Madison Ebright Data Analyst Banner" width="100%">
 </p>
-## Hi, I'm Maddie Ebright 👋
+# Hi, I'm Maddie Ebright 👋
 
 ## About Me
 
