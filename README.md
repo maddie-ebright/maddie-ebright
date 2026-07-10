@@ -29,7 +29,7 @@ I have experience working with forecasting, optimization, time-series analysis, 
 **MBA — Biola University**  
 Currently pursuing
 
-**B.S. in Applied Mathematics and a Minor In Business — Grand Valley State University**
+**B.S. in Applied Mathematics and a Minor In Business — Grand Valley State University**  
 Class of 2025
 
 ## Connect With Me
